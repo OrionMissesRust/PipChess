@@ -1,0 +1,8 @@
+{
+  "id": "pipchess",
+  "name": "PipChess",
+  "version": "1.0.0",
+  "files": "HOLO/PIPCHESS/APP.JS",
+  "src": "HOLO/PIPCHESS/APP.JS",
+  "icon": "APPINFO/HOLO.IMG"
+}
